@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Init"
+  short_description: "Initialize repo AGENTS and harness docs"
+  default_prompt: "Use $repo-init to initialize AGENTS.md, quality workflow docs, and harness guidance for this repository."
