@@ -46,10 +46,10 @@ repo-init-skill/
 
 ## Install
 
-Clone this repository using its published GitHub URL, then copy the `repo-init` skill directory into your Codex skills directory:
+Clone this repository, then copy the `repo-init` skill directory into your Codex skills directory:
 
 ```bash
-git clone <repo-init-skill-git-url>
+git clone https://github.com/happyfeetw/repo-init-skill.git
 mkdir -p ~/.codex/skills
 cp -R repo-init-skill/repo-init ~/.codex/skills/repo-init
 ```

@@ -46,10 +46,10 @@ repo-init-skill/
 
 ## 安装
 
-使用发布后的 GitHub 仓库地址克隆仓库，然后把 `repo-init` skill 目录复制到 Codex skills 目录：
+克隆仓库后，把 `repo-init` skill 目录复制到 Codex skills 目录：
 
 ```bash
-git clone <repo-init-skill-git-url>
+git clone https://github.com/happyfeetw/repo-init-skill.git
 mkdir -p ~/.codex/skills
 cp -R repo-init-skill/repo-init ~/.codex/skills/repo-init
 ```
